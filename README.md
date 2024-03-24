@@ -2,6 +2,13 @@
 
 Welcome to REACT INTERVIEW TASK! This project utilizes Create React App.
 
+## Installation
+
+To get started, navigate to the project directory and run the following command to install the necessary dependencies:
+
+```bash
+npm install
+
 ## Available Scripts
 
 In the project directory, you can run:
