@@ -1,6 +1,6 @@
-# Project Name
+# REACT INTERVIEW TASK
 
-Welcome to [Project Name]! This project utilizes Create React App.
+Welcome to REACT INTERVIEW TASK! This project utilizes Create React App.
 
 ## Available Scripts
 
