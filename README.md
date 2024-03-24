@@ -8,25 +8,32 @@ To get started, navigate to the project directory and run the following command 
 
 ```bash
 npm install
+```bash
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+```bash
+npm start
+```bash
 
 Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
+Open ```bashhttp://localhost:3000```bash to view it in your browser.
 
 The page will reload when you make changes.
 You may also see any lint errors in the console.
 
-### `npm test`
+```bash
+npm test
+```bash
 
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
 
-### `npm run build`
+```bash
+npm run build
+```bash
 
 Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
